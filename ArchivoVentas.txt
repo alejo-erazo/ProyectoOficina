@@ -1,0 +1,5 @@
+4
+fijo,10000,1
+movil,5000,2
+tecnologia,3000,3
+pyme,15000,4
